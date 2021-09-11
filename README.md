@@ -3,7 +3,8 @@
 <!--
 **bunyamin-polat/bunyamin-polat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started![bp](https://user-images.githubusercontent.com/78386903/132946657-55046b56-b78d-44ed-8af9-803a5b2b6528.jpg)
+:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
