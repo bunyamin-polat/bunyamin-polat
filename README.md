@@ -29,11 +29,11 @@
 <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="100" height="40"/> </a>
 </p>
 
-<h2 align="center">My github stats</h2>
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunyamin-polat&show_icons=true&locale=en" alt="bunyamin-polat"/></p>
-<p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunyamin-polat&" alt="bunyamin-polat"/></p>
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyamin-polat&show_icons=true&locale=en&layout=compact" alt="bunyamin-polat"/>
+<h2 align="center"> My github stats </h2>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bunyamin-polat&theme=monokai" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bunyamin-polat&theme=monokai" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bunyamin-polat&theme=monokai" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bunyamin-polat&theme=monokai" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bunyamin-polat&theme=monokai" >
 </p>
