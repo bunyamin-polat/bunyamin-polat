@@ -3,7 +3,6 @@
     -🔭 I’m currently working on Machine Leraning | Deep Learning | NLP Projects
     -🌱 I’m currently learning Computer Vision
     -👯 I’m looking to collaborate on AI with everyone
-    -🤝 I’m looking for help with Computer Vision
 ![Artificial İntelligence](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_960_720.jpg)
 
 <h2 align="center"> How to reach me </h2>
