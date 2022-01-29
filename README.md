@@ -10,8 +10,6 @@
 <a href="mailto:muhendisbp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail" height="30"></a>
 <a href="https://twitter.com/bunyaminplt_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bunyaminplt_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bunyamin-polat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunyamin-polat" height="40" width="40" /></a>
-<a href="https://kaggle.com/bunyaminpolat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bunyaminpolat" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/bunyaminpolat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bunyaminpolat" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and tools</h2>
