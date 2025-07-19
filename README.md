@@ -1,5 +1,5 @@
 # Hi there 👋👋👋, I'm Bünyamin
-    -🔭 I’m a passionate Data Scientist from Turkey
+    -🔭 I’m a passionate Data Scientist from Switzerland
     -🔭 I’m currently working on Machine Learning | Deep Learning | NLP Projects
     -🌱 I’m currently learning Generative AI
     -👯 I’m looking to collaborate on AI with everyone
