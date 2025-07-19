@@ -7,7 +7,7 @@
 
 <h2 align="center"> How to reach me </h2>
 <p align = "center">
-<a href="https://linkedin.com/in/bunyaminpolat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunyamin-polat" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/bunyaminpolat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunyamin-polat" height="40" width="40" /></a>
 </p>
 
 <h2 align="center"> My github stats </h2>
