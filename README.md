@@ -9,12 +9,3 @@
 <p align = "center">
 <a href="https://linkedin.com/in/bunyaminpolat" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunyamin-polat" height="40" width="40" /></a>
 </p>
-
-<h2 align="center"> My github stats </h2>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bunyamin-polat&theme=monokai" >
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bunyamin-polat&theme=monokai" >
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bunyamin-polat&theme=monokai" >
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bunyamin-polat&theme=monokai" >
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bunyamin-polat&theme=monokai" >
-</p>
