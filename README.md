@@ -15,7 +15,7 @@ I build machine learning and NLP systems that work in production — not just in
 
 ### Experience
 
-At **John Snow Labs**, I built production NLP systems for clinical, legal, and financial documents — NER and information-extraction pipelines with Spark NLP reaching **90%+ accuracy in production**, with processing time cut by **~40%**. I also contributed **67 merged pull requests** to John Snow Labs' open-source repositories, including **10 to [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)** (4K+ ⭐) and 44 to the [Spark NLP Workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop). Before that, I mentored a cohort of junior data scientists, guiding their ML projects from prototype to deployment.
+At **John Snow Labs**, I built production NLP systems for clinical, legal, and financial documents — NER and information-extraction pipelines with Spark NLP reaching **90%+ accuracy in production**, with processing time cut by **~40%**. I also contributed **67 merged pull requests** to John Snow Labs' open-source repositories, including **10 to [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)** (4K+ ⭐), 44 to the [Spark NLP Workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop), and 13 to [johnsnowlabs](https://github.com/JohnSnowLabs/johnsnowlabs), the gateway library to the John Snow Labs ecosystem. Before that, I mentored a cohort of junior data scientists, guiding their ML projects from prototype to deployment.
 
 Currently deepening my expertise in modern GenAI engineering — LLMs, RAG, agents, and evaluation — and starting a **CAS in Advanced Machine Learning & MLOps at ZHAW**.
 
