@@ -27,12 +27,23 @@ Currently deepening my expertise in modern GenAI engineering — LLMs, RAG, agen
 
 ---
 
-### 📌 Featured projects
+### 📌 Selected work
 
-> Building three end-to-end, deployed platforms across healthcare AI — coming soon:
-> - **Clinical Intelligence Platform** — RAG, structured extraction, agentic workflows & evaluation (LLM)
-> - **ML Lifecycle Platform** — end-to-end MLOps: training, serving, monitoring, retraining
-> - **Healthcare Analytics Platform** — data pipeline + predictive modeling + explainability
+| Project | What it is | Highlights |
+|---|---|---|
+| [**MCP Agent Tools**](https://github.com/bunyamin-polat/MCP) | Model Context Protocol tool servers used by a LangGraph agent | stdio and streamable-HTTP servers · multi-turn memory · tests, CI and Docker |
+| [**LangGraph Agents**](https://github.com/bunyamin-polat/LangGraph) | Four agent design patterns, one project each | ReAct · Reflection · Reflexion · Agentic RAG with document and hallucination graders |
+| [**Disease NER with Spark NLP**](https://github.com/bunyamin-polat/Spark-NLP-NER-Model-with-NCBI-Dataset) | Disease mention extraction from biomedical text | BiLSTM-CNN-Char on the NCBI Disease corpus · token-level F1 0.84–0.85 · Streamlit demo |
+| [**Slipway**](https://github.com/bunyamin-polat/slipway) | Deployment blueprint: FastAPI on AWS with Terraform | 42 s to a live URL · 22 s teardown · OIDC-based CD from merge to live in 1 min 22 s |
+| [**Retail Data Pipeline**](https://github.com/bunyamin-polat/retail-data-pipeline) | On-premises ETL and analytics for 540K sales records | Validation with reject reasons · transactional, idempotent loads · Apriori and RFM · CI |
+
+### 🚧 Currently building
+
+Three end-to-end platforms across healthcare AI:
+
+- **Clinical Intelligence Platform:** RAG, structured extraction, agentic workflows and evaluation (LLM)
+- **ML Lifecycle Platform:** end-to-end MLOps with training, serving, monitoring and retraining
+- **Healthcare Analytics Platform:** data pipeline, predictive modelling and explainability
 
 ---
 
